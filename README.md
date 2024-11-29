@@ -15,7 +15,7 @@
 - <b>Full Stack Web App (React, NodeJS, Javascript)</b>
   - [Proejction Mapping Simulation Software Application]
   - 
-- <b>C++ (Object Oriented Programming)</b
+- <b>C++ (Object Oriented Programming)</b>
 - <b>Python</b>
 
 <h2>🖥️ Cybersecurity Projects </h2>
