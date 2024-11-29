@@ -1,50 +1,31 @@
 <h1>Hi, I'm Cedric! </h1>
 
+<h2>🤖 Machine Learning Projects:</h2>
+
+- <b>Machine Learning in Physics (PyTorch)</b>
+  - [Training an RNN with PyTorch](https://github.com/cedriccyberpro/PHYS449/tree/main/Assignment%201)
+  - [Training a fully Visible Boltzmann Machine](https://github.com/cedriccyberpro/PHYS449/tree/main/Assignment%202)
+  - [Training a Variational Auto-encoder](https://github.com/cedriccyberpro/PHYS449/tree/main/Assignment%203)
+  - [Training a NN to generate and predic Exoplanet radii](https://github.com/cedriccyberpro/Phys449_Project_Neural_Network_Model/tree/main/Final_Project)
+
+
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Full Stack Web App (React, NodeJS, Javascript)</b>
+  - [Proejction Mapping Simulation Software Application]
+  - 
+- <b>C++ (Object Oriented Programming)</b
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>🖥️ Cybersecurity Projects </h2>
 
 - 
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h2>🖥️ Certifications </h2>
+- [CompTIA Network+ N10-009: ID: X7BN3TWYSJQ1QNKZ](https://www.certmetrics.com/comptia/public/verification.aspx/)
 
-[twitter]: https://twitter.com/CCCyberPro12
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="53807075-ce76-4c12-a3e8-35850c97803c" data-share-badge-host="https://www.credly.com">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
