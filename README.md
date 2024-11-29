@@ -23,7 +23,8 @@
 - 
 
 
-<h2>🖥️ Certifications </h2>
+<h2>📄 Certifications </h2>
+
 - [CompTIA Network+ N10-009: ID: X7BN3TWYSJQ1QNKZ](https://www.certmetrics.com/comptia/public/verification.aspx/)
 
 
